@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
 
     float proxim;
 
-    //Telefon na którym testowalem ma api 16
+    //Telefon na którym testowalem ma api 16, z 3 sensorami
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
